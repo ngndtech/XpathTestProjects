@@ -14,7 +14,7 @@ import org.openqa.selenium.WebElement;
 4) "Sign in" buttonunan tıklayınız.
 5) "Your nearest branch closes in: 30m 5s" yazısının göründüğünü doğrulayınız.
  */
-public class _03_applitools extends BaseDriver {
+public class _02_applitools extends BaseDriver {
     @Test
     public void Test2()
     {
